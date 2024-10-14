@@ -1,6 +1,6 @@
 Amazon Sales Report
 
-  Here is the link of the dashboard : [<iframe title="Amazon Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjc3Yzc2ZTItNmE5Yi00ODgyLTliMDQtZTZhMDA3MDAxMmViIiwidCI6IjhjN2MzMzBlLWExYzEtNDNlNy1hZmNlLWNlNDhmYzBiMjU1MiJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/groups/me/reports/9e3f1bc0-9409-4306-b2b3-ff67a5ef95ad/3fbff7a9387f9c127f39?experience=power-bi)
+  Here is the link of the dashboard : [[<iframe title="Amazon Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjc3Yzc2ZTItNmE5Yi00ODgyLTliMDQtZTZhMDA3MDAxMmViIiwidCI6IjhjN2MzMzBlLWExYzEtNDNlNy1hZmNlLWNlNDhmYzBiMjU1MiJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/groups/me/reports/9e3f1bc0-9409-4306-b2b3-ff67a5ef95ad/3fbff7a9387f9c127f39?experience=power-bi)](https://app.powerbi.com/reportEmbed?reportId=9e3f1bc0-9409-4306-b2b3-ff67a5ef95ad&autoAuth=true&ctid=8c7c330e-a1c1-43e7-afce-ce48fc0b2552)
 
 Insight of Amazon Report
 This Power BI dashboard contains Amazon sales data from January 2020 to December 2020 the data has been transformed to the desired form using the Power Query editor, and after the transformation of data, it is loaded to the Power BI dashboard. Required Measures are created using Powe Bi DAX for effective analysis over time. Appropriate visuals are selected for the dashboard along with KPIs. After analysing the data carefully here are the insights I have concluded. 
