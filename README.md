@@ -43,11 +43,11 @@ Fulfillment Analysis
 
 Customer Segmentation: 
    - State-wise Orders and Sales: Maharashtra leads with 22,272 orders and ₹1.29 crore in sales, followed by Karnataka (17,824 orders, ₹1.02 crore) and Tamil Nadu (11,488 orders, ₹0.64 crore).
-    - Cancellation Rate by Category: Highest cancellations in the T-shirt category (17.91%), followed by Shirts (17.84%) and Blazers (16.8%).
-    - Order Status by Shipment Service Level: Most orders are shipped via standard shipping, with few cancellations and pending orders. Expedited shipping is used less frequently.
-     - Cancelled Orders by State and Courier Status: Maharashtra has the most canceled orders, followed by Karnataka and Uttar Pradesh. A significant portion of orders is in transit or on the way.
-      - Order Count and Amount by State: Maharashtra, Karnataka, and Tamil Nadu are the top three states in terms of both order count and revenue generation.
-      - This page has a Slicer option which is in the form of a Filter image(Funnel image) just ctrl+click to access the State filter where you can filter the visuals by state, once you select the option in Slicer the visual will change according to it, after using it deselect all the slicer option and click on the back button on the bottom to return back to customer segmentation  page.
+   - Cancellation Rate by Category: Highest cancellations in the T-shirt category (17.91%), followed by Shirts (17.84%) and Blazers (16.8%).
+   - Order Status by Shipment Service Level: Most orders are shipped via standard shipping, with few cancellations and pending orders. Expedited shipping is used less frequently.
+   - Cancelled Orders by State and Courier Status: Maharashtra has the most canceled orders, followed by Karnataka and Uttar Pradesh. A significant portion of orders is in transit or on the way.
+   - Order Count and Amount by State: Maharashtra, Karnataka, and Tamil Nadu are the top three states in terms of both order count and revenue generation.
+   - This page has a Slicer option which is in the form of a Filter image(Funnel image) just ctrl+click to access the State filter where you can filter the visuals by state, once you select the option in Slicer the visual will change according to it, after using it deselect all the slicer option and click on the back button on the bottom to return back to customer segmentation  page.
 
 Geographical Analysis:
      - In this visual, we can view the sales in states in a graphical view which gives us the idea of the overall sales in each state. This also contains a slicer option at the top of the map that filters the map based on Shipped and unshipped options. 
