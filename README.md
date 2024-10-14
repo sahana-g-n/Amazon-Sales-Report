@@ -1,6 +1,10 @@
 Amazon Sales Report
+
+  Here is the link of the dashboard : <iframe title="Amazon Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjc3Yzc2ZTItNmE5Yi00ODgyLTliMDQtZTZhMDA3MDAxMmViIiwidCI6IjhjN2MzMzBlLWExYzEtNDNlNy1hZmNlLWNlNDhmYzBiMjU1MiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 Insight of Amazon Report
 This Power BI dashboard contains Amazon sales data from January 2020 to December 2020 the data has been transformed to the desired form using the Power Query editor, and after the transformation of data, it is loaded to the Power BI dashboard. Required Measures are created using Powe Bi DAX for effective analysis over time. Appropriate visuals are selected for the dashboard along with KPIs. After analysing the data carefully here are the insights I have concluded. 
+
 The report has the following pages: 
 •	Home 
 •	Sales Overview
@@ -55,7 +59,7 @@ Summary Insights:
 - Geographical Distribution: Sales are concentrated in certain states like Maharashtra, Karnataka, and Telangana.
 - Customer Segmentation: The report shows 5,656 total orders, generating ₹78.59M in revenue with a 14.22% cancellation rate, and Maharashtra leading in both orders (22,272) and sales (₹1.29 crore). The T-shirt category has the highest cancellation rate (17.91%), and most orders are shipped using standard shipping.
 
-  Here is the link of the dashboard : <iframe title="Amazon Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjc3Yzc2ZTItNmE5Yi00ODgyLTliMDQtZTZhMDA3MDAxMmViIiwidCI6IjhjN2MzMzBlLWExYzEtNDNlNy1hZmNlLWNlNDhmYzBiMjU1MiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 
